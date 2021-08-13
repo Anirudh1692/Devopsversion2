@@ -1,0 +1,10 @@
+<stdio.h>
+{
+hello.world  
+{
+agent = devops.test
+service  = httpd installation
+name = httpd
+state = installed
+}
+}
